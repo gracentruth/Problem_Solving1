@@ -1,6 +1,6 @@
-### Problem_Solving1
+## Problem_Solving1
 
-## VSCode-Github 연동
+### VSCode-Github 연동
 
 1. github reporsitory 생성 
 2. read.md 파일 생성

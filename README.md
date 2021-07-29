@@ -9,3 +9,4 @@
 4. github와 vscode에서 branch 이름 동일한 지 확인하기 
 
 5.
+pull되려나
